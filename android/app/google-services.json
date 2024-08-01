@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "433705182401",
+    "firebase_url": "https://testnaz-8a535-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testnaz-8a535",
+    "storage_bucket": "testnaz-8a535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433705182401:android:0cb22a981636b14b7e6040",
+        "android_client_info": {
+          "package_name": "com.capstone.getaranku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXtBTTZ2HUJDHdLg-_vnYYP76iAat5fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
